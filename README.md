@@ -1,5 +1,5 @@
 # reading-notes
-** introdection **
+**introdection**
 my  name is wesam naji salem qandah and i am 22 years old ,i am a Software engineering , i graduated from zarqa  univercity and i am live in zarqa/jordan .
 i am already good with hardware beacouse i traning in company about it and i want to becoming a good software develpment in advanced level of programing .
 this webdsit containe  the reader nodes from peginning of the coures till the end.
