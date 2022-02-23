@@ -7,6 +7,6 @@ this webdsit containe  the reader nodes from peginning of the coures till the en
 401 table of contents<br />
 | the code   |      the title      |  the link |
 |------------|:-------------------:|----------:|
-| read 01    |    java basics      | link    |
-| read 02    |  array,loop,improt  |   link     |
-| read 03    |maps,primitives,file i/o|    link     |
+| read 01    |    java basics      |  [link](https://pages.github.com/)   |
+| read 02    |  array,loop,improt  |   [link](https://pages.github.com/)    |
+| read 03    |maps,primitives,file i/o|   [link](https://pages.github.com/)   |
