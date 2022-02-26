@@ -1,5 +1,41 @@
 #sql
-SQL:<br />
+## SQL
 SQL might seem intimidating but it’s really fairly easy to understand. SQL stands for
 Structured Query Language and simply put, it’s a search language for you to instruct a
 database about what information you’d like retrieved from it.<br />
+## SELECT queries:
+Select query for a specific columns<br />
+SELECT column, another_column, …<br />
+FROM mytable;<br />
+and 
+Select query for all columns
+SELECT * 
+FROM mytable;
+slect all table for movies
+SELECT * FROM movies;
+## Queries with constraints
+Select query with constraints
+SELECT column, another_column, …
+FROM mytable<br />
+WHERE condition<br />
+    AND/OR another_condition<br />
+    AND/OR …;<br />
+
+|Operator|	Condition|	Example|
+|------------|:-------------------:|----------:|
+|=|	Case sensitive exact string comparison (notice the single equals)	|col_name = "abc"|
+|!= or <>|	Case sensitive exact string inequality comparison	|col_name != "abcd"|
+|LIKE	|Case insensitive exact string comparison	|col_name LIKE "ABC"|
+|NOT LIKE	|Case insensitive exact string inequality comparison|	col_name NOT LIKE "ABCD"|
+|%	|Used anywhere in a string to match a sequence of zero or more characters (only with LIKE or NOT LIKE)	|col_name LIKE "%AT%"
+(matches "AT", "ATTIC", "CAT" or even "BATS")|
+|_	|Used anywhere in a string to match a single character (only with LIKE or NOT LIKE)	|col_name LIKE "AN_"
+(matches "AND", but not "AN")|
+|IN (…)|	String exists in a list	|col_name IN ("A", "B", "C")|
+|NOT IN (…)|	String does not exist in a list	|col_name NOT IN ("D", "E", "F")|
+
+
+
+
+
+
