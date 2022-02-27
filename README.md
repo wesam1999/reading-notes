@@ -8,5 +8,5 @@ this webdsit containe  the reader nodes from peginning of the coures till the en
 | the code   |      the title      |  the link |
 |------------|:-------------------:|----------:|
 | read 01    |    java basics      | [link](https://wesam1999.github.io/reading-notes/401-read01)   |
-| read 02    |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02.)    |
-| read 03    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/)   |
+| read 02    |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02)    |
+| read 03    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
