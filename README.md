@@ -15,6 +15,6 @@ this webdsit containe  the reader nodes from peginning of the coures till the en
 | read 06    |  Inheritance and Interfaces  | [link](https://wesam1999.github.io/reading-notes/401-read06)    |
 | read 07    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
 | read 08    |OO Design| [link](https://wesam1999.github.io/reading-notes/401-read08)   |
-| Prep: The Growth Mindset   |The Growth Mindset| [link](https://wesam1999.github.io/reading-notes/Prep: The Growth Mindset)   |
-| databases and SQL.md   |databases and SQL| [link](https://wesam1999.github.io/reading-notes/databases and SQL)   |
-| summarizing your observations.md   |summarizing your observations| [link](https://wesam1999.github.io/reading-notes/summarizing your observations)   |
+| Prep: The Growth Mindset   |The Growth Mindset| [link](https://wesam1999.github.io/reading-notes/Prep:TheGrowthMindset)   |
+| databases and SQL.md   |databases and SQL| [link](https://wesam1999.github.io/reading-notes/databasesandSQL)   |
+| summarizing your observations.md   |summarizing your observations| [link](https://wesam1999.github.io/reading-notes/summarizingyourobservations)   |
