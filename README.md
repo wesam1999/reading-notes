@@ -18,3 +18,35 @@ this webdsit containe  the reader nodes from peginning of the coures till the en
 | Prep: The Growth Mindset   |The Growth Mindset| [link](https://wesam1999.github.io/reading-notes/Prep:TheGrowthMindset)   |
 | databases and SQL.md   |databases and SQL| [link](https://wesam1999.github.io/reading-notes/databasesandSQL)   |
 | summarizing your observations.md   |summarizing your observations| [link](https://wesam1999.github.io/reading-notes/summarizingyourobservations)   |
+| read 09    |    java basics      | [link](https://wesam1999.github.io/reading-notes/401-read01)   |
+| read 10    |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02)    |
+| read 11    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 12    |OOP(Object-Oriented Programming)and bitmap| [link](https://wesam1999.github.io/reading-notes/401-read04)   |
+| read 13    |    Linked Lists     | [link](https://wesam1999.github.io/reading-notes/401-read05)   |
+| read 14    |  Inheritance and Interfaces  | [link](https://wesam1999.github.io/reading-notes/401-read06)    |
+| read 15    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 16    |OO Design| [link](https://wesam1999.github.io/reading-notes/401-read08)   |
+| read 17    |    java basics      | [link](https://wesam1999.github.io/reading-notes/401-read01)   |
+| read 18    |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02)    |
+| read 19    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 20    |OOP(Object-Oriented Programming)and bitmap| [link](https://wesam1999.github.io/reading-notes/401-read04)   |
+| read 26    |    Linked Lists     | [link](https://wesam1999.github.io/reading-notes/401-read05)   |
+| read 27    |  Inheritance and Interfaces  | [link](https://wesam1999.github.io/reading-notes/401-read06)    |
+| read 28    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 29    |OO Design| [link](https://wesam1999.github.io/reading-notes/401-read08)   |
+| read 30    |    java basics      | [link](https://wesam1999.github.io/reading-notes/401-read01)   |
+| read 31   |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02)    |
+| read 32    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 33    |OOP(Object-Oriented Programming)and bitmap| [link](https://wesam1999.github.io/reading-notes/401-read04)   |
+| read 34    |    Linked Lists     | [link](https://wesam1999.github.io/reading-notes/401-read05)   |
+| read 35    |  Inheritance and Interfaces  | [link](https://wesam1999.github.io/reading-notes/401-read06)    |
+| read 36    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 37    |OO Design| [link](https://wesam1999.github.io/reading-notes/401-read08)   |
+| read 38    |    java basics      | [link](https://wesam1999.github.io/reading-notes/401-read01)   |
+| read 39    |  array,loop,improt  | [link](https://wesam1999.github.io/reading-notes/401-read02)    |
+| read 40    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 41    |OOP(Object-Oriented Programming)and bitmap| [link](https://wesam1999.github.io/reading-notes/401-read04)   |
+| read 42    |    Linked Lists     | [link](https://wesam1999.github.io/reading-notes/401-read05)   |
+| read 43    |  Inheritance and Interfaces  | [link](https://wesam1999.github.io/reading-notes/401-read06)    |
+| read 44    |maps,primitives,file i/o| [link](https://wesam1999.github.io/reading-notes/401-read03)   |
+| read 45    |OO Design| [link](https://wesam1999.github.io/reading-notes/401-read08)   |
